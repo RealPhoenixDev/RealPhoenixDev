@@ -6,7 +6,7 @@ Who knows, maybe one day this place will shine! ¯\_(ツ)_/¯
 
 If youre bored feel free to send something funny/silly here: RealPhoenixDev@gmail.com
 
-P.s. If life gives you lemons, exploit the natural environment and automate the production for maximum profit and maximum efficiency, like a good Ficsit pioneer.
+P.s. If life gives you lemons, exploit the natural environment and automate the production for maximum output and maximum efficiency, like a good Ficsit pioneer.
 
 
 

@@ -1,8 +1,14 @@
-- 👋 Hi, I’m @RealPhoenixDev
-- 👀 I’m interested in Something
-- 🌱 I’m currently learning Java, HTML, CSS, JS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: RealPhoenixDev@gmail.com
+Hello!
+
+This is the place where I keep all of my abandoned and half finished projects that most people dont get to see :P.
+
+Who knows, maybe one day this place will shine! ¯\_(ツ)_/¯
+
+If youre bored feel free to send something funny/silly here: RealPhoenixDev@gmail.com
+
+P.s. If life gives you lemons, exploit the natural environment and automate the production for maximum profit and maximum efficiency, like a good Ficsit pioneer.
+
+
 
 <!---
 RealPhoenixDev/RealPhoenixDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
